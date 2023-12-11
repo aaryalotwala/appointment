@@ -1,6 +1,6 @@
 //Copyright 2022
 //
-// Created by jinesh patel on 3/28/22.
+// Created by Arya Lotwala on 3/28/22.
 //
 #include<iostream>
 #include "Monthly.h"
