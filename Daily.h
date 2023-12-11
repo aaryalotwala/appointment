@@ -7,7 +7,7 @@
 
 /* 
  * File:   Daily.h
- * Author: hloi
+ * Author: arya lotwala
  *
  * Created on March 19, 2018, 10:51 PM
  */
